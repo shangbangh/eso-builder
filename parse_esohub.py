@@ -4,14 +4,8 @@ import json
 import re
 import os
 
-from utils import clean_text
+from utils import clean_text, shred_dict_to_cp
 
-# %%
-def shred_json_to_cp(cp_dict):
-    if not any([type(v) == dict for v in cp_dict.values()]):
-        return list(cp_dict.values())
-    for k, v in cp_dict.items():
-        pass
 # %% parse sets
 all_sets = {}
 all_sets_raw = {}
@@ -69,8 +63,27 @@ with open("./all_skills.json", "w+") as f:
 with open("./all_skills_raw.json", "w+") as f:
     json.dump(all_skills_raw, f)
 # %% parse cp
+all_cp_flat = {}
 all_cp = {}
 all_cp_raw = {}
 with open("./data_source/cp.json", "r") as f:
     cp_dict = json.load(f)
-    
+    all_cp_flat = shred_dict_to_cp(cp_dict)
+    for cp in all_cp_flat:
+        all_cp[cp["name"]] = {
+            "name": cp["name"],
+            "type": "passive" if cp["is_passive"] else "slotable",
+            "max_points": cp["max_points"]
+        }
+        all_cp_raw[cp["name"]] = f"{cp['name']}: {cp['description']}"
+
+with open("./all_cp_flat.json", "w+") as f:
+    json.dump(all_cp_flat, f)
+
+with open("./all_cp.json", "w+") as f:
+    json.dump(all_cp, f)
+
+with open("./all_cp_raw.json", "w+") as f:
+    json.dump(all_cp_raw, f)
+
+# %%

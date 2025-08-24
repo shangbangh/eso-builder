@@ -23,6 +23,14 @@ with open("./all_skills_raw.json", "r") as s:
         documents=list(skills_json.values()),
     )
 
+eso_cp_collection = chroma_client.get_or_create_collection(name="eso-cp")
+with open("./all_cp_raw.json", "r") as s:
+    cp_json = json.load(s)
+    eso_cp_collection.add(
+        ids=list(cp_json.keys()),
+        documents=list(cp_json.values()),
+    )
+
 # %%
 collection = chroma_client.get_or_create_collection(name="eso-sets")
 results = collection.query(
@@ -33,6 +41,13 @@ results = collection.query(
 # %% 
 skills = chroma_client.get_or_create_collection(name="eso-skills")
 skills.query(
+    query_texts=["status effect"], # Chroma will embed this for you
+    n_results=10 # how many results to return
+)
+
+# %%
+cp = chroma_client.get_or_create_collection(name="eso-cp")
+cp.query(
     query_texts=["status effect"], # Chroma will embed this for you
     n_results=10 # how many results to return
 )
