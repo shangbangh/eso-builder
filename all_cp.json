@@ -1,0 +1,432 @@
+{
+  "Piercing": { "name": "Piercing", "type": "passive", "max_points": 20 },
+  "Flawless Ritual": {
+    "name": "Flawless Ritual",
+    "type": "passive",
+    "max_points": 40
+  },
+  "Battle Mastery": {
+    "name": "Battle Mastery",
+    "type": "passive",
+    "max_points": 40
+  },
+  "War Mage": { "name": "War Mage", "type": "passive", "max_points": 30 },
+  "Mighty": { "name": "Mighty", "type": "passive", "max_points": 30 },
+  "Weapons Expert": {
+    "name": "Weapons Expert",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Force of Nature": {
+    "name": "Force of Nature",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Exploiter": { "name": "Exploiter", "type": "passive", "max_points": 50 },
+  "Blessed": { "name": "Blessed", "type": "passive", "max_points": 20 },
+  "Salve of Renewal": {
+    "name": "Salve of Renewal",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Hope Infusion": {
+    "name": "Hope Infusion",
+    "type": "passive",
+    "max_points": 50
+  },
+  "From the Brink": {
+    "name": "From the Brink",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Enlivening Overflow": {
+    "name": "Enlivening Overflow",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Resilience": { "name": "Resilience", "type": "passive", "max_points": 50 },
+  "Preparation": { "name": "Preparation", "type": "passive", "max_points": 20 },
+  "Elemental Aegis": {
+    "name": "Elemental Aegis",
+    "type": "passive",
+    "max_points": 20
+  },
+  "Hardy": { "name": "Hardy", "type": "passive", "max_points": 20 },
+  "Quick Recovery": {
+    "name": "Quick Recovery",
+    "type": "passive",
+    "max_points": 20
+  },
+  "Ironclad": { "name": "Ironclad", "type": "passive", "max_points": 50 },
+  "Arcane Supremacy": {
+    "name": "Arcane Supremacy",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Backstabber": { "name": "Backstabber", "type": "passive", "max_points": 50 },
+  "Biting Aura": { "name": "Biting Aura", "type": "passive", "max_points": 50 },
+  "Bulwark": { "name": "Bulwark", "type": "passive", "max_points": 50 },
+  "Cleansing Revival": {
+    "name": "Cleansing Revival",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Cutting Defense": {
+    "name": "Cutting Defense",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Deadly Aim": { "name": "Deadly Aim", "type": "passive", "max_points": 50 },
+  "Duelist's Rebuff": {
+    "name": "Duelist's Rebuff",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Eldritch Insight": {
+    "name": "Eldritch Insight",
+    "type": "passive",
+    "max_points": 20
+  },
+  "Endless Endurance": {
+    "name": "Endless Endurance",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Enduring Resolve": {
+    "name": "Enduring Resolve",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Fighting Finesse": {
+    "name": "Fighting Finesse",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Focused Mending": {
+    "name": "Focused Mending",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Foresight": { "name": "Foresight", "type": "passive", "max_points": 50 },
+  "Last Stand": { "name": "Last Stand", "type": "passive", "max_points": 50 },
+  "Master-at-Arms": {
+    "name": "Master-at-Arms",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Occult Overload": {
+    "name": "Occult Overload",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Precision": { "name": "Precision", "type": "passive", "max_points": 20 },
+  "Reaving Blows": {
+    "name": "Reaving Blows",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Reinforced": { "name": "Reinforced", "type": "passive", "max_points": 50 },
+  "Rejuvenator": { "name": "Rejuvenator", "type": "passive", "max_points": 50 },
+  "Riposte": { "name": "Riposte", "type": "passive", "max_points": 50 },
+  "Soothing Tide": {
+    "name": "Soothing Tide",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Swift Renewal": {
+    "name": "Swift Renewal",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Thaumaturge": { "name": "Thaumaturge", "type": "passive", "max_points": 50 },
+  "Tireless Discipline": {
+    "name": "Tireless Discipline",
+    "type": "passive",
+    "max_points": 20
+  },
+  "Unassailable": {
+    "name": "Unassailable",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Untamed Aggression": {
+    "name": "Untamed Aggression",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Wrathful Strikes": {
+    "name": "Wrathful Strikes",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Mystic Tenacity": {
+    "name": "Mystic Tenacity",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Sustained by Suffering": {
+    "name": "Sustained by Suffering",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Relentlessness": {
+    "name": "Relentlessness",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Pain's Refuge": {
+    "name": "Pain's Refuge",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Nimble Protector": {
+    "name": "Nimble Protector",
+    "type": "passive",
+    "max_points": 6
+  },
+  "Ward Master": { "name": "Ward Master", "type": "passive", "max_points": 50 },
+  "Bracing Anchor": {
+    "name": "Bracing Anchor",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Soothing Shield": {
+    "name": "Soothing Shield",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Hasty": { "name": "Hasty", "type": "passive", "max_points": 16 },
+  "Celerity": { "name": "Celerity", "type": "passive", "max_points": 50 },
+  "Refreshing Stride": {
+    "name": "Refreshing Stride",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Thrill of the Hunt": {
+    "name": "Thrill of the Hunt",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Arcane Alacrity": {
+    "name": "Arcane Alacrity",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Bashing Brutality": {
+    "name": "Bashing Brutality",
+    "type": "passive",
+    "max_points": 20
+  },
+  "Bastion": { "name": "Bastion", "type": "passive", "max_points": 50 },
+  "Bloody Renewal": {
+    "name": "Bloody Renewal",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Boundless Vitality": {
+    "name": "Boundless Vitality",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Defiance": { "name": "Defiance", "type": "passive", "max_points": 20 },
+  "Expert Evasion": {
+    "name": "Expert Evasion",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Fortification": {
+    "name": "Fortification",
+    "type": "passive",
+    "max_points": 30
+  },
+  "Fortified": { "name": "Fortified", "type": "passive", "max_points": 50 },
+  "Hardened": { "name": "Hardened", "type": "passive", "max_points": 50 },
+  "Hero's Vigor": {
+    "name": "Hero's Vigor",
+    "type": "passive",
+    "max_points": 20
+  },
+  "Juggernaut": { "name": "Juggernaut", "type": "passive", "max_points": 50 },
+  "On Guard": { "name": "On Guard", "type": "passive", "max_points": 50 },
+  "Peace of Mind": {
+    "name": "Peace of Mind",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Piercing Gaze": {
+    "name": "Piercing Gaze",
+    "type": "passive",
+    "max_points": 30
+  },
+  "Rejuvenation": {
+    "name": "Rejuvenation",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Rousing Speed": {
+    "name": "Rousing Speed",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Savage Defense": {
+    "name": "Savage Defense",
+    "type": "passive",
+    "max_points": 30
+  },
+  "Shield Master": {
+    "name": "Shield Master",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Siphoning Spells": {
+    "name": "Siphoning Spells",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Slippery": { "name": "Slippery", "type": "passive", "max_points": 50 },
+  "Spirit Mastery": {
+    "name": "Spirit Mastery",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Sprinter": { "name": "Sprinter", "type": "passive", "max_points": 20 },
+  "Strategic Reserve": {
+    "name": "Strategic Reserve",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Survival Instincts": {
+    "name": "Survival Instincts",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Tempered Soul": {
+    "name": "Tempered Soul",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Tireless Guardian": {
+    "name": "Tireless Guardian",
+    "type": "passive",
+    "max_points": 20
+  },
+  "Tumbling": { "name": "Tumbling", "type": "passive", "max_points": 30 },
+  "Unchained": { "name": "Unchained", "type": "passive", "max_points": 50 },
+  "Angler's Instincts": {
+    "name": "Angler's Instincts",
+    "type": "passive",
+    "max_points": 25
+  },
+  "Breakfall": { "name": "Breakfall", "type": "passive", "max_points": 50 },
+  "Cutpurse's Art": {
+    "name": "Cutpurse's Art",
+    "type": "passive",
+    "max_points": 25
+  },
+  "Discipline Artisan": {
+    "name": "Discipline Artisan",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Fade Away": { "name": "Fade Away", "type": "passive", "max_points": 50 },
+  "Fleet Phantom": {
+    "name": "Fleet Phantom",
+    "type": "passive",
+    "max_points": 40
+  },
+  "Fortune's Favor": {
+    "name": "Fortune's Favor",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Friends in Low Places": {
+    "name": "Friends in Low Places",
+    "type": "passive",
+    "max_points": 25
+  },
+  "Gifted Rider": {
+    "name": "Gifted Rider",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Gilded Fingers": {
+    "name": "Gilded Fingers",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Homemaker": { "name": "Homemaker", "type": "passive", "max_points": 25 },
+  "Infamous": { "name": "Infamous", "type": "passive", "max_points": 25 },
+  "Inspiration Boost": {
+    "name": "Inspiration Boost",
+    "type": "passive",
+    "max_points": 45
+  },
+  "Liquid Efficiency": {
+    "name": "Liquid Efficiency",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Master Gatherer": {
+    "name": "Master Gatherer",
+    "type": "passive",
+    "max_points": 75
+  },
+  "Meticulous Disassembly": {
+    "name": "Meticulous Disassembly",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Out of Sight": {
+    "name": "Out of Sight",
+    "type": "passive",
+    "max_points": 30
+  },
+  "Plentiful Harvest": {
+    "name": "Plentiful Harvest",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Professional Upkeep": {
+    "name": "Professional Upkeep",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Rationer": { "name": "Rationer", "type": "passive", "max_points": 30 },
+  "Reel Technique": {
+    "name": "Reel Technique",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Shadowstrike": {
+    "name": "Shadowstrike",
+    "type": "passive",
+    "max_points": 75
+  },
+  "Soul Reservoir": {
+    "name": "Soul Reservoir",
+    "type": "passive",
+    "max_points": 30
+  },
+  "Steadfast Enchantment": {
+    "name": "Steadfast Enchantment",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Steed's Blessing": {
+    "name": "Steed's Blessing",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Sustaining Shadows": {
+    "name": "Sustaining Shadows",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Treasure Hunter": {
+    "name": "Treasure Hunter",
+    "type": "passive",
+    "max_points": 50
+  },
+  "Wanderer": { "name": "Wanderer", "type": "passive", "max_points": 50 },
+  "War Mount": { "name": "War Mount", "type": "passive", "max_points": 75 }
+}
