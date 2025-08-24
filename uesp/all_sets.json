@@ -1,0 +1,1106 @@
+{
+  "Archer's Mind": {
+    "2 items": "Adds 25-1096 Maximum Stamina",
+    "3 items": "Adds 15-657 Critical Chance",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "Increases your Critical Damage and Healing by 8%. Increases your Critical Damage and Healing by an additional 16% when you are Sneaking or Invisible."
+  },
+  "Perfected Archer's Mind": {
+    "2 items": "Adds 25-1096 Maximum Stamina",
+    "3 items": "Adds 15-657 Critical Chance",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "Increases your Critical Damage and Healing by 8%. Increases your Critical Damage and Healing by an additional 16% when you are Sneaking or Invisible."
+  },
+  "Footman's Fortune": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 34-1487 Armor",
+    "4 items": "Adds 34-1487 Armor",
+    "5 items": "Increases the amount of damage you block by 14%."
+  },
+  "Perfected Footman's Fortune": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 34-1487 Armor",
+    "4 items": "Adds 34-1487 Armor",
+    "5 items": "Increases the amount of damage you block by 14%."
+  },
+  "Healer's Habit": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 3-129 Magicka Recovery",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Gain Minor Mending at all times, increasing your healing done by 8%."
+  },
+  "Perfected Healer's Habit": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 3-129 Magicka Recovery",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Gain Minor Mending at all times, increasing your healing done by 8%."
+  },
+  "Robes of Destruction Mastery": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 15-657 Critical Chance",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "While you have a Destruction Staff equipped, your Max Magicka is increased by 66-2840."
+  },
+  "Perfected Robes of Destruction Mastery": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 15-657 Critical Chance",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "While you have a Destruction Staff equipped, your Max Magicka is increased by 66-2840."
+  },
+  "Aerie's Cry": {
+    "2 items": "Class: Warden",
+    "3 items": "Adds 34-1487 Offensive Penetration",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Adds 3-129 Weapon and Spell Damage"
+  },
+  "Aetheric Lancer": {
+    "2 items": "Class: Templar",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "Adds 3-129 Weapon and Spell Damage"
+  },
+  "Basalt-Blooded Warrior": {
+    "2 items": "Class: Dragonknight",
+    "3 items": "Adds 3-129 Magicka Recovery",
+    "4 items": "Adds 28-1206 Maximum Health",
+    "5 items": "Adds 3-129 Weapon and Spell Damage"
+  },
+  "Beacon of Oblivion": {
+    "2 items": "Class: Sorcerer",
+    "3 items": "Adds 34-1487 Armor",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Adds 28-1206 Maximum Health"
+  },
+  "Corpseburster": {
+    "2 items": "Class: Necromancer",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Adds 15-657 Critical Chance"
+  },
+  "Gardener of Seasons": {
+    "2 items": "Class: Warden",
+    "3 items": "Adds 4% Healing Done",
+    "4 items": "Adds 3-129 Magicka Recovery",
+    "5 items": "Adds 3-129 Weapon and Spell Damage"
+  },
+  "Monolith of Storms": {
+    "2 items": "Class: Sorcerer",
+    "3 items": "Adds 15-657 Critical Chance",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Adds 3-129 Weapon and Spell Damage"
+  },
+  "Nobility in Decay": {
+    "2 items": "Class: Necromancer",
+    "3 items": "Adds 28-1206 Maximum Health",
+    "4 items": "Adds 4% Healing Taken",
+    "5 items": "Adds 28-1206 Maximum Health"
+  },
+  "Pyrebrand": {
+    "2 items": "Class: Dragonknight",
+    "3 items": "Adds 34-1487 Offensive Penetration",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Adds 3-129 Weapon and Spell Damage"
+  },
+  "Reawakened Hierophant": {
+    "2 items": "Adds 17-731 Maximum Magicka",
+    "3 items": "Adds 17-731 Maximum Magicka",
+    "4 items": "Adds 17-731 Maximum Magicka",
+    "5 items": "Adds 17-731 Maximum Stamina"
+  },
+  "Soulcleaver": {
+    "2 items": "Class: Nightblade",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 25-1096 Maximum Magicka",
+    "5 items": "Adds 3-129 Weapon and Spell Damage"
+  },
+  "Spattering Disjunction": {
+    "2 items": "Class: Arcanist",
+    "3 items": "Adds 15-657 Critical Chance",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Adds 3-129 Weapon and Spell Damage"
+  },
+  "Umbral Edge": {
+    "2 items": "Class: Nightblade",
+    "3 items": "Adds 28-1206 Maximum Health",
+    "4 items": "Adds 34-1487 Armor",
+    "5 items": "Adds 25-1096 Maximum Stamina"
+  },
+  "Wrathsun": {
+    "2 items": "Class: Templar",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "Adds 3-129 Weapon and Spell Damage"
+  },
+  "Ashen Grip": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "When you deal Martial melee damage, you breathe fire to all enemies in front of you for 774 Flame Damage. This effect can occur once every 4 seconds and scales off the higher of your Weapon and Spell Damage."
+  },
+  "Death's Wind": {
+    "2 items": "Adds 34-1487 Armor",
+    "3 items": "Adds 28-1206 Maximum Health",
+    "4 items": "Adds 28-1206 Maximum Health",
+    "5 items": "When you take melee damage while you are under 35% Health, you knockback and stun all enemies within 8 meters of you for 4 seconds. This effect can occur once every 15 seconds."
+  },
+  "Night's Silence": {
+    "2 items": "Adds 25-1096 Maximum Stamina",
+    "3 items": "Adds 3-129 Stamina Recovery",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "Ignore the Movement Speed penalty of Sneak."
+  },
+  "Armor of the Seducer": {
+    "2 items": "Adds 3-129 Magicka Recovery",
+    "3 items": "Adds 25-1096 Maximum Magicka",
+    "4 items": "Adds 3-129 Magicka Recovery",
+    "5 items": "Reduces the cost of your Magicka abilities by 10%."
+  },
+  "Torug's Pact": {
+    "2 items": "Adds 34-1487 Armor",
+    "3 items": "Adds 28-1206 Maximum Health",
+    "4 items": "Adds 34-1487 Armor",
+    "5 items": "Decreases weapon enchantment cooldown by 33% and increases non Oblivion Damage weapon enchantment potency by 45%."
+  },
+  "Twilight's Embrace": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 15-657 Critical Chance",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Increases your healing received by 10%."
+  },
+  "Hist Bark": {
+    "2 items": "Adds 34-1487 Armor",
+    "3 items": "Adds 25-1096 Maximum Stamina",
+    "4 items": "Adds 28-1206 Maximum Health",
+    "5 items": "While you are Bracing, you gain Major Evasion, reducing damage from area attacks by 20%."
+  },
+  "Magnus' Gift": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 3-129 Magicka Recovery",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "When you cast a Magicka ability, you have a 15% chance to negate that ability's cost."
+  },
+  "Whitestrake's Retribution": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 34-1487 Armor",
+    "4 items": "Adds 3-129 Health Recovery",
+    "5 items": "When you take damage while you are under 30% Health, you gain a damage shield that absorbs 303-13035 damage for 6 seconds. This effect can occur once every 15 seconds."
+  },
+  "Alessia's Bulwark": {
+    "2 items": "Adds 34-1487 Armor",
+    "3 items": "Adds 28-1206 Maximum Health",
+    "4 items": "Adds 34-1487 Armor",
+    "5 items": "When you take damage from a Martial melee attack, you reduce the attacker's Weapon and Spell Damage by 6-300 for 5 seconds."
+  },
+  "Song of Lamae": {
+    "2 items": "Adds 34-1487 Armor",
+    "3 items": "Adds 34-1487 Armor",
+    "4 items": "Adds 28-1206 Maximum Health",
+    "5 items": "When you take damage while you are under 30% Health, you deal 1377 Magic Damage to the attacker and heal for the damage done. This effect can occur once every 3 seconds and scales off your Max Health."
+  },
+  "Vampire's Kiss": {
+    "2 items": "Adds 25-1096 Maximum Stamina",
+    "3 items": "Adds 25-1096 Maximum Magicka",
+    "4 items": "Adds 25-1096 Maximum Magicka",
+    "5 items": "When you kill an enemy, you heal for 10512 Health over 10 seconds. This effect scales off the higher of your Max Magicka or Stamina."
+  },
+  "Hunding's Rage": {
+    "2 items": "Adds 15-657 Critical Chance",
+    "3 items": "Adds 25-1096 Maximum Stamina",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "Adds 6-300 Weapon and Spell Damage"
+  },
+  "Night Mother's Gaze": {
+    "2 items": "Adds 15-657 Critical Chance",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "When you deal Critical Damage you apply Major Breach to the enemy, reducing their Physical and Spell Resistance by 5948 for 4 seconds."
+  },
+  "Willow's Path": {
+    "2 items": "Adds 3-129 Magicka Recovery",
+    "3 items": "Adds 3-129 Stamina Recovery",
+    "4 items": "Adds 3-129 Health Recovery",
+    "5 items": "Increases your Health, Magicka, and Stamina Recovery by 18%."
+  },
+  "Lamia's Song": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 3-129 Magicka Recovery",
+    "4 items": "Adds 25-1096 Maximum Magicka",
+    "5 items": "When you use an Ultimate ability, you and your group members within 20 meters of you heal for 0-25 Health and restore 0-25 Magicka and Stamina per Ultimate spent."
+  },
+  "Medusa": {
+    "2 items": "Adds 15-657 Critical Chance",
+    "3 items": "Adds 15-657 Critical Chance",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "Gain Minor Force at all times, increasing your Critical Damage by 10%."
+  },
+  "Undaunted Infiltrator": {
+    "2 items": "Adds 25-1096 Maximum Stamina",
+    "3 items": "Adds 25-1096 Maximum Stamina",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "When you use an ability that costs Magicka while in combat, you increase the damage of your Light and Heavy Attacks against monsters by 38-1645 for 10 seconds."
+  },
+  "Jailbreaker": {
+    "2 items": "Adds 25-1096 Maximum Stamina",
+    "3 items": "Adds 3-129 Stamina Recovery",
+    "4 items": "Adds 3-129 Stamina Recovery",
+    "5 items": "Gain Minor Expedition at all times, increasing your Movement Speed by 15%."
+  },
+  "Sanctuary": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 4% Healing Taken",
+    "4 items": "Adds 25-1096 Maximum Magicka",
+    "5 items": "Increases your healing received by 10% for you and up to 11 group members within 10 meters of you. This bonus persists through death."
+  },
+  "Tormentor": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 4% Healing Taken",
+    "4 items": "Adds 4% Healing Taken",
+    "5 items": "When you deal direct damage with a Blink, Charge, Leap, Teleport, or Pull ability, you gain 84-3642 Physical and Spell Resistance, taunt the first enemy hit to attack you for 15 seconds, and heal for 45% of the damage done."
+  },
+  "Bone Pirate's Tatters": {
+    "2 items": "Adds 25-1096 Maximum Stamina",
+    "3 items": "Adds 3-129 Stamina Recovery",
+    "4 items": "Adds 25-1096 Maximum Stamina",
+    "5 items": "While you have a drink buff active, your Max Stamina is increased by 46-2000 and Stamina Recovery by 3-133."
+  },
+  "Knight-Errant's Mail": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 25-1096 Maximum Stamina",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Adds 10-450 Weapon and Spell Damage to your One Hand and Shield abilities. When you use a One Hand and Shield ability, you heal for 35-1537 Health."
+  },
+  "Undaunted Unweaver": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 25-1096 Maximum Magicka",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "When you use an ability that costs Stamina while in combat, you increase the damage of your Light and Heavy Attacks against monsters by 38-1645 for 10 seconds."
+  },
+  "Nikulas' Heavy Armor": {
+    "2 items": "Adds 34-1487 Armor",
+    "3 items": "Adds 34-1487 Armor",
+    "4 items": "Adds 28-1206 Maximum Health",
+    "5 items": "When you Block, you gain a stack of Nikulas' Resolve for 5 seconds, up to once every half second. After 8 stacks you consume Nikulas' Resolve and deflect the next direct damaging attack made against you within 5 seconds, avoiding it completely."
+  },
+  "Noble Duelist's Silks": {
+    "2 items": "Adds 3-129 Stamina Recovery",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "When you deal damage with a Light or Heavy Attack in melee range, you increase the damage of your Light and Heavy Attacks against monsters by 49-2110 for 15 seconds. This effect can occur once every 12 seconds."
+  },
+  "Sword Dancer": {
+    "2 items": "Adds 15-657 Critical Chance",
+    "3 items": "Adds 25-1096 Maximum Stamina",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Adds 13-600 Weapon and Spell Damage to your Dual Wield abilities."
+  },
+  "Burning Spellweave": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "When you deal damage with a Flame Damage ability, you apply the Burning status effect to the enemy and increase your Weapon and Spell Damage by 11-490 for 8 seconds. These effects can occur once every 12 seconds."
+  },
+  "Embershield": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 28-1206 Maximum Health",
+    "4 items": "Adds 34-1487 Armor",
+    "5 items": "When you complete a fully-charged Heavy Attack, you increase your Physical and Spell Resistance by 76-3300 and deal 0 Flame damage to all enemies within 5 meters of you every 1 second for 6 seconds. The damage scales off the higher of your Physical or Spell Resistance."
+  },
+  "Sunderflame": {
+    "2 items": "Adds 25-1096 Maximum Stamina",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "When you deal damage with a fully-charged Heavy Attack, you deal an additional 1925 Flame damage over 10 seconds and apply Minor Breach to the enemy, reducing their Physical and Spell Resistance by 2974. This effect scales off the higher of your Weapon and Spell Damage."
+  },
+  "Ebon Armory": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 28-1206 Maximum Health",
+    "4 items": "Adds 4% Healing Taken",
+    "5 items": "Increases Max Health by 23-1000 for you and up to 11 other group members within 28 meters of you. This bonus persists through death."
+  },
+  "Leviathan": {
+    "2 items": "Adds 25-1096 Maximum Stamina",
+    "3 items": "Adds 15-657 Critical Chance",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "Adds 35-1528 Critical Chance"
+  },
+  "Shroud of the Lich": {
+    "2 items": "Adds 3-129 Magicka Recovery",
+    "3 items": "Adds 25-1096 Maximum Magicka",
+    "4 items": "Adds 3-129 Magicka Recovery",
+    "5 items": "When you cast an ability that costs resources while under 33% Magicka while in combat, your Magicka Recovery is increased by 25-1106 for 20 seconds. This effect can occur once every 1 minute."
+  },
+  "Armor of Truth": {
+    "2 items": "Adds 15-657 Critical Chance",
+    "3 items": "Adds 25-1096 Maximum Stamina",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "When you deal damage to an enemy who is Off Balance, your Weapon and Spell Damage are increased by 10-460 for 10 seconds."
+  },
+  "Netch's Touch": {
+    "2 items": "Adds 15-657 Critical Chance",
+    "3 items": "Adds 25-1096 Maximum Magicka",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Adds 9-400 Weapon and Spell Damage to your Shock Damage abilities."
+  },
+  "Strength of the Automaton": {
+    "2 items": "Adds 15-657 Critical Chance",
+    "3 items": "Adds 25-1096 Maximum Stamina",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Adds 9-400 Weapon and Spell Damage to your Physical and Bleed Damage abilities."
+  },
+  "Draugr Hulk": {
+    "2 items": "Adds 25-1096 Maximum Stamina",
+    "3 items": "Adds 25-1096 Maximum Stamina",
+    "4 items": "Adds 25-1096 Maximum Stamina",
+    "5 items": "Adds 59-2550 Maximum Stamina"
+  },
+  "The Ice Furnace": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 15-657 Critical Chance",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "When you deal Frost Damage, you deal an additional 238 Flame damage to all enemies within 8 meters around the initial target. This effect can occur once every 1 second and scales off the higher of your Weapon and Spell Damage."
+  },
+  "Magicka Furnace": {
+    "2 items": "Adds 34-1487 Armor",
+    "3 items": "Adds 25-1096 Maximum Magicka",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "When you take damage while you are under 50% Magicka, you restore 176-7590 Magicka. This effect can occur once every 30 seconds."
+  },
+  "Barkskin": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 3-129 Stamina Recovery",
+    "4 items": "Adds 34-1487 Armor",
+    "5 items": "Reduces the duration of immobilizations and snares applied to you by 50%. When an immobilization or snare is applied to you, heal for 39-1715 Health and restore 19-858 Stamina. This effect can occur once every 5 seconds."
+  },
+  "Light Speaker": {
+    "2 items": "Adds 15-657 Critical Chance",
+    "3 items": "Adds 25-1096 Maximum Magicka",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Adds 13-600 Weapon and Spell Damage to your Restoration Staff abilities."
+  },
+  "Undaunted Bastion": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 34-1487 Armor",
+    "4 items": "Adds 34-1487 Armor",
+    "5 items": "When you use a taunt ability while you are under 75% Health, gain a damage shield that absorbs 328-14127 damage for 6 seconds. This effect can occur once every 10 seconds."
+  },
+  "Dreugh King Slayer": {
+    "2 items": "Adds 3-129 Weapon and Spell Damage",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "Gain Major Brutality and Sorcery at all times, increasing your Weapon and Spell Damage by 20%. When you kill an enemy, you gain Major Expedition for 8 seconds, increasing your Movement Speed by 30%."
+  },
+  "Spider Cultist Cowl": {
+    "2 items": "Adds 15-657 Critical Chance",
+    "3 items": "Adds 25-1096 Maximum Magicka",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Adds 13-600 Weapon and Spell Damage to your Destruction Staff abilities."
+  },
+  "Viper's Sting": {
+    "2 items": "Adds 15-657 Critical Chance",
+    "3 items": "Adds 25-1096 Maximum Stamina",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "When you deal damage with a Martial melee attack, you deal an additional 928 Poison damage over 4 seconds. This effect can occur once every 4 seconds and scales off the higher of your Weapon and Spell Damage."
+  },
+  "Durok's Bane": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 3-129 Health Recovery",
+    "4 items": "Adds 4% Healing Taken",
+    "5 items": "When you take damage, you apply Major Defile to the enemy for 5 seconds, reducing their healing received and damage shield strength by 12%. This effect can occur once every 7 seconds per enemy."
+  },
+  "Hircine's Veneer": {
+    "2 items": "Adds 3-129 Stamina Recovery",
+    "3 items": "Adds 25-1096 Maximum Stamina",
+    "4 items": "Adds 3-129 Stamina Recovery",
+    "5 items": "Grants 3-145 Stamina Recovery to you and up to 11 other group members within 28 meters of you. This bonus persists through death."
+  },
+  "Vestments of the Warlock": {
+    "2 items": "Adds 3-129 Magicka Recovery",
+    "3 items": "Adds 25-1096 Maximum Magicka",
+    "4 items": "Adds 3-129 Magicka Recovery",
+    "5 items": "When you cast an ability that costs resources while under 25% Magicka, you restore 263-11350 Magicka. This effect can occur once every 45 seconds."
+  },
+  "Knightmare": {
+    "2 items": "Adds 34-1487 Armor",
+    "3 items": "Adds 28-1206 Maximum Health",
+    "4 items": "Adds 34-1487 Armor",
+    "5 items": "When you deal Martial melee damage, you apply Minor Maim to all enemies within 8 meters of you for 5 seconds, reducing their damage done by 5%. This effect can occur once every 3 seconds."
+  },
+  "Prayer Shawl": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 3-129 Magicka Recovery",
+    "5 items": "When you overheal yourself or an ally, you grant them a damage shield that absorbs 116-4997 damage for 6 seconds. This effect can occur once every 2 seconds."
+  },
+  "Spelunker": {
+    "2 items": "Adds 25-1096 Maximum Stamina",
+    "3 items": "Adds 3-129 Stamina Recovery",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Reduces the cost of your Undaunted abilities by 10%. When an ally uses one of your Undaunted ability synergies you restore 16-730 Magicka and Stamina. This effect can occur once every 5 seconds."
+  },
+  "Jolting Arms": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 34-1487 Armor",
+    "4 items": "Adds 34-1487 Armor",
+    "5 items": "When you Block, you charge your arms, increasing your Physical and Spell Resistance by 107-4620 for 6 seconds and causing your next Bash attack to deal an additional 81-3513 damage. This effect can occur once every 6 seconds."
+  },
+  "Overwhelming Surge": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "When you deal damage with a Class ability, you surround yourself with a torrent that deals 149 Shock damage to enemies within 8 meters of you every 1 second for 6 seconds. 15% of the damage you deal this way is restored to you as Magicka. This effect can occur every 7 seconds and scales off the higher of your Weapon and Spell Damage."
+  },
+  "Storm Master": {
+    "2 items": "Adds 15-657 Critical Chance",
+    "3 items": "Adds 15-657 Critical Chance",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "When you deal Critical Damage with a fully-charged Heavy Attack, your Light and Heavy Attacks deal an additional 35-1542 damage to monsters for 8 seconds. This effect can occur once every 5 seconds."
+  },
+  "Oblivion's Edge": {
+    "2 items": "Adds 15-657 Critical Chance",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 3-129 Stamina Recovery",
+    "5 items": "When you kill an enemy, you fill an empty Soul Gem and heal for 5906 Health. The heal can occur once every 10 seconds and scales off the higher of your Max Magicka or Stamina."
+  },
+  "Rattlecage": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Gain Major Brutality and Sorcery at all times, increasing your Weapon and Spell Damage by 20%."
+  },
+  "The Worm's Raiment": {
+    "2 items": "Adds 3-129 Magicka Recovery",
+    "3 items": "Adds 25-1096 Maximum Magicka",
+    "4 items": "Adds 3-129 Magicka Recovery",
+    "5 items": "Grants 3-145 Magicka Recovery to you and up to 11 other group members within 28 meters of you. This bonus persists through death."
+  },
+  "Crusader": {
+    "2 items": "Adds 3-129 Weapon and Spell Damage",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "When you deal direct damage with a Blink, Charge, Leap, Teleport, or Pull ability, you consecrate the ground beneath you for 10 seconds and gain a damage shield that absorbs 1595 damage for 6 seconds. Every 2 seconds you and nearby group members in the area gain Minor Courage for 12 seconds. These effects can occur once every 20 seconds and the damage shield scales off the higher of your Weapon and Spell Damage."
+  },
+  "Duneripper's Scales": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 4% Healing Taken",
+    "4 items": "Adds 4% Healing Taken",
+    "5 items": "While you are Bracing, your Physical and Spell Resistance are increased by 123-5310."
+  },
+  "Treasure Hunter": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 15-657 Critical Chance",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "Gain Major Savagery and Prophecy at all times, increasing your Weapon Critical and Spell Critical rating by 2629."
+  },
+  "Combat Physician": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 15-657 Critical Chance",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "When your healing critically strikes, you grant your target a damage shield that absorbs 100-4308 damage for 6 seconds. This effect can occur once every 6 seconds per target."
+  },
+  "Sergeant's Mail": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 3-129 Health Recovery",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "When you deal damage with a Heavy Attack, you gain a stack of Sergeant's Focus for 5 seconds, increasing the damage of your Heavy Attacks by 15-645 per stack. This effect can occur once every second and stacks up to 4 times."
+  },
+  "Toothrow": {
+    "2 items": "Adds 25-1096 Maximum Stamina",
+    "3 items": "Adds 15-657 Critical Chance",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "Gain Major Savagery and Prophecy at all times, increasing your Weapon Critical and Spell Critical rating by 2629."
+  },
+  "Broken Soul": { "2 items": "Adds 28-1206 Maximum Health" },
+  "Prophet's": {},
+  "Anthelmir's Construct": {
+    "2 items": "1 item: Adds 3-129 Weapon and Spell Damage"
+  },
+  "Archdruid Devyric": {
+    "2 items": "1 item: Adds 34-1487 Offensive Penetration"
+  },
+  "Balorgh": { "2 items": "1 item: Adds 3-129 Weapon and Spell Damage" },
+  "Baron Zaudrus": {
+    "2 items": "1 item: Adds 12-548 Maximum Stamina 1 item: Adds 12-548 Maximum Magicka 1 item: Adds 14-603 Maximum Health"
+  },
+  "The Blind": { "2 items": "1 item: Adds 15-657 Critical Chance" },
+  "Bloodspawn": { "2 items": "1 item: Adds 3-129 Stamina Recovery" },
+  "Chokethorn": { "2 items": "1 item: Adds 3-129 Magicka Recovery" },
+  "Domihaus": {
+    "2 items": "1 item: Adds 25-1096 Maximum Stamina 1 item: Adds 25-1096 Maximum Magicka"
+  },
+  "Earthgore": { "2 items": "1 item: Adds 4% Healing Done" },
+  "Encratis's Behemoth": { "2 items": "1 item: Adds 25-1096 Maximum Magicka" },
+  "Engine Guardian": { "2 items": "1 item: Adds 3-129 Health Recovery" },
+  "Euphotic Gatekeeper": { "2 items": "1 item: Adds 3-129 Stamina Recovery" },
+  "Grothdarr": { "2 items": "1 item: Adds 25-1096 Maximum Magicka" },
+  "Grundwulf": { "2 items": "1 item: Adds 15-657 Critical Chance" },
+  "Iceheart": { "2 items": "1 item: Adds 15-657 Critical Chance" },
+  "Ilambris": { "2 items": "1 item: Adds 25-1096 Maximum Magicka" },
+  "Infernal Guardian": { "2 items": "1 item: Adds 25-1096 Maximum Magicka" },
+  "Kargaeda": {
+    "2 items": "1 item: Adds 17-731 Maximum Magicka 1 item: Adds 17-731 Maximum Stamina"
+  },
+  "Kjalnar's Nightmare": {
+    "2 items": "1 item: Adds 3-129 Weapon and Spell Damage"
+  },
+  "Kra'gh": { "2 items": "1 item: Adds 34-1487 Offensive Penetration" },
+  "Lady Thorn": { "2 items": "1 item: Adds 28-1206 Maximum Health" },
+  "Lord Warden": { "2 items": "1 item: Adds 34-1487 Armor" },
+  "Maarselok": { "2 items": "1 item: Adds 25-1096 Maximum Stamina" },
+  "Magma Incarnate": {
+    "2 items": "1 item: Adds 3-129 Magicka Recovery 1 item: Adds 3-129 Stamina Recovery"
+  },
+  "Maw of the Infernal": {
+    "2 items": "1 item: Adds 3-129 Weapon and Spell Damage"
+  },
+  "Mighty Chudan": { "2 items": "Adds 28-1206 Maximum Health" },
+  "Molag Kena": { "2 items": "1 item: Adds 3-129 Weapon and Spell Damage" },
+  "Mother Ciannait": { "2 items": "1 item: Adds 25-1096 Maximum Magicka" },
+  "Nazaray": { "2 items": "1 item: Adds 28-1206 Maximum Health" },
+  "Nerien'eth": { "2 items": "1 item: Adds 3-129 Weapon and Spell Damage" },
+  "Nightflame": { "2 items": "1 item: Adds 25-1096 Maximum Magicka" },
+  "Orpheon the Tactician": {
+    "2 items": "1 item: Adds 3-129 Weapon and Spell Damage"
+  },
+  "Ozezan the Inferno": { "2 items": "1 item: Adds 3-129 Magicka Recovery" },
+  "Pirate Skeleton": { "2 items": "1 item: Adds 34-1487 Armor" },
+  "Prior Thierric": { "2 items": "1 item: Adds 3-129 Weapon and Spell Damage" },
+  "Roksa the Warped": {
+    "2 items": "1 item: Adds 1-70 Stamina Recovery 1 item: Adds 1-70 Magicka Recovery 1 item: Adds 1-70 Health Recovery"
+  },
+  "Scourge Harvester": { "2 items": "1 item: Adds 28-1206 Maximum Health" },
+  "Selene": { "2 items": "1 item: Adds 3-129 Weapon and Spell Damage" },
+  "Sellistrix": { "2 items": "1 item: Adds 25-1096 Maximum Stamina" },
+  "Sentinel of Rkugamz": { "2 items": "1 item: Adds 4% Healing Done" },
+  "Shadowrend": { "2 items": "1 item: Adds 3-129 Magicka Recovery" },
+  "Slimecraw": { "2 items": "Adds 2-113 Critical Chance" },
+  "Spawn of Mephala": { "2 items": "1 item: Adds 25-1096 Maximum Stamina" },
+  "Squall of Retribution": { "2 items": "1 item: Adds 28-1206 Maximum Health" },
+  "Stone Husk": { "2 items": "1 item: Adds 15-657 Critical Chance" },
+  "Stonekeeper": {
+    "2 items": "1 item: Adds 12-548 Maximum Stamina 1 item: Adds 12-548 Maximum Magicka 1 item: Adds 14-603 Maximum Health"
+  },
+  "Stormfist": { "2 items": "1 item: Adds 3-129 Stamina Recovery" },
+  "Swarm Mother": {
+    "2 items": "1 item: Adds 25-1096 Maximum Stamina 1 item: Adds 25-1096 Maximum Magicka"
+  },
+  "Symphony of Blades": { "2 items": "1 item: Adds 4% Healing Done" },
+  "Thurvokun": { "2 items": "1 item: Adds 28-1206 Maximum Health" },
+  "Tremorscale": { "2 items": "1 item: Adds 25-1096 Maximum Stamina" },
+  "The Troll King": { "2 items": "1 item: Adds 4% Healing Done" },
+  "Valkyn Skoria": { "2 items": "1 item: Adds 34-1487 Offensive Penetration" },
+  "Velidreth": { "2 items": "1 item: Adds 3-129 Weapon and Spell Damage" },
+  "Vykosa": { "2 items": "1 item: Adds 4% Healing Taken" },
+  "Zaan": { "2 items": "1 item: Adds 15-657 Critical Chance" },
+  "Order of Diagna": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 28-1206 Maximum Health",
+    "4 items": "Adds 4% Healing Taken",
+    "5 items": "Gain Minor Vitality at all times, increasing your healing received and damage shield strength by 6%."
+  },
+  "Robes of the Withered Hand": {
+    "2 items": "Adds 3-129 Magicka Recovery",
+    "3 items": "Adds 25-1096 Maximum Magicka",
+    "4 items": "Adds 28-1206 Maximum Health",
+    "5 items": "When you are within 28 meters of an enemy you are in combat with, and the enemy dies, you heal for 38-1637 Health and gain 38-1637 Magicka. This effect can occur once every 3 seconds."
+  },
+  "Sword-Singer": {
+    "2 items": "Adds 25-1096 Maximum Stamina",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "Adds 13-600 Weapon and Spell Damage to your Two Handed abilities."
+  },
+  "Armor of the Veiled Heritance": {
+    "2 items": "Adds 3-129 Weapon and Spell Damage",
+    "3 items": "Adds 34-1487 Armor",
+    "4 items": "Adds 34-1487 Armor",
+    "5 items": "When you interrupt an enemy, you gain 12-516 Weapon and Spell Damage for 15 seconds. Your Bash attacks deal 12-516 more damage."
+  },
+  "Queen's Elegance": {
+    "2 items": "Adds 3-129 Weapon and Spell Damage",
+    "3 items": "Adds 25-1096 Maximum Magicka",
+    "4 items": "Adds 25-1096 Maximum Magicka",
+    "5 items": "When you use a Light Attack you reduce the Health, Magicka, or Stamina cost of your next active ability cast within 2 seconds by 10%. When you use a fully-charged Heavy Attack you gain Empower for 3 seconds, increasing the damage of your Heavy Attacks against monsters by 70%. Each of these effects can occur once every second."
+  },
+  "Twin Sisters": {
+    "2 items": "Adds 3-129 Stamina Recovery",
+    "3 items": "Adds 25-1096 Maximum Stamina",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "When you Block, you cause all enemies within 5 meters of you to bleed for 1932 Bleed Damage over 10 seconds. This effect can occur once every 10 seconds and scales off the higher of your Weapon and Spell Damage."
+  },
+  "Seventh Legion Brute": {
+    "2 items": "Adds 3-129 Weapon and Spell Damage",
+    "3 items": "Adds 3-129 Health Recovery",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "When you cast an ability that grants Major or Minor Resolve while in combat, you gain 7-341 Weapon and Spell Damage and 7-341 Health Recovery for 15 seconds. This effect can occur every 15 seconds."
+  },
+  "Spriggan's Thorns": {
+    "2 items": "Adds 25-1096 Maximum Stamina",
+    "3 items": "Adds 25-1096 Maximum Stamina",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Adds 80-3460 Offensive Penetration"
+  },
+  "Vampire Lord": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "Increases the bonuses and penalties of your Vampire Stage, depending on how far you've progressed. Stage 1/2/3/4 1%/2%/4%/6% additional Flame Damage Taken. 1%/2%/4%/6% increased Regular Ability cost. 5%/10%/15%/20% reduced Vampire Ability cost."
+  },
+  "Meridia's Blessed Armor": {
+    "2 items": "Adds 34-1487 Armor",
+    "3 items": "Adds 3-129 Stamina Recovery",
+    "4 items": "Adds 34-1487 Armor",
+    "5 items": "When you Block, you gain Meridia's Blessed Armor for 5 seconds, causing you to dodge all incoming attacks. This effect can occur once every 25 seconds."
+  },
+  "Prisoner's Rags": {
+    "2 items": "Adds 25-1096 Maximum Stamina",
+    "3 items": "Adds 3-129 Stamina Recovery",
+    "4 items": "Adds 3-129 Stamina Recovery",
+    "5 items": "Reduces the cost of Sprint by 50%. While Sprinting, restore 24-1035 Magicka every 1 second."
+  },
+  "Stygian": {
+    "2 items": "Adds 3-129 Weapon and Spell Damage",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 34-1487 Offensive Penetration",
+    "5 items": "When you leave Sneak or invisibility while in combat, your Weapon and Spell Damage is increased by 8-369 for 15 seconds."
+  },
+  "Way of Air": {
+    "2 items": "Adds 3-129 Stamina Recovery",
+    "3 items": "Adds 3-129 Stamina Recovery",
+    "4 items": "Increases the radius you can detect Sneaking enemies by 2 meters.",
+    "5 items": "When you use Roll Dodge, your Weapon and Spell Damage is increased by 9-391 for 6 seconds."
+  },
+  "Way of Fire": {
+    "2 items": "Adds 3-129 Weapon and Spell Damage",
+    "3 items": "Adds 28-1206 Maximum Health",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "When you deal damage with a Light or Heavy Attack, you deal an additional 571 Flame damage. This effect can occur once every 2 seconds and scales off the higher of your Weapon and Spell Damage."
+  },
+  "Way of Martial Knowledge": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "While your Stamina is below 50%, your Light Attacks cause the enemy to take 8% additional damage for 5 seconds. This effect can occur once every 8 seconds."
+  },
+  "Mother's Sorrow": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 15-657 Critical Chance",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "Adds 35-1528 Critical Chance"
+  },
+  "Night Mother's Embrace": {
+    "2 items": "Adds 25-1096 Maximum Stamina",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 3-129 Stamina Recovery",
+    "5 items": "Reduces the radius you can be detected while Sneaking by 2 meters. Reduces the cost of Sneak by 25%."
+  },
+  "Plague Doctor": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 28-1206 Maximum Health",
+    "4 items": "Adds 28-1206 Maximum Health",
+    "5 items": "Adds 65-2804 Maximum Health"
+  },
+  "Akaviri Dragonguard": {
+    "2 items": "Adds 3-129 Magicka Recovery",
+    "3 items": "Adds 4% Healing Taken",
+    "4 items": "Adds 28-1206 Maximum Health",
+    "5 items": "Reduces the cost of your Ultimate abilities by 15%."
+  },
+  "Fiord's Legacy": {
+    "2 items": "Adds 3-129 Weapon and Spell Damage",
+    "3 items": "Adds 15-657 Critical Chance",
+    "4 items": "Adds 3-129 Stamina Recovery",
+    "5 items": "Reduces the cost and increases the Movement Speed bonus of Sprint by 15%."
+  },
+  "Stendarr's Embrace": {
+    "2 items": "Adds 3-129 Magicka Recovery",
+    "3 items": "Adds 25-1096 Maximum Magicka",
+    "4 items": "Adds 25-1096 Maximum Magicka",
+    "5 items": "When you heal yourself or an ally, you remove all negative effects from them. This effect can occur once every 30 seconds per target."
+  },
+  "Bloodthorn's Touch": {
+    "2 items": "Adds 3-129 Weapon and Spell Damage",
+    "3 items": "Adds 25-1096 Maximum Magicka",
+    "4 items": "Adds 3-129 Magicka Recovery",
+    "5 items": "When you deal direct damage, you restore 18-800 Magicka and Stamina. This effect can occur once every 5 seconds."
+  },
+  "Hide of the Werewolf": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 25-1096 Maximum Stamina",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "When you take damage, you generate 6 Ultimate. This effect can occur once every 5 seconds."
+  },
+  "Wyrd Tree's Blessing": {
+    "2 items": "Adds 3-129 Magicka Recovery",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 3-129 Magicka Recovery",
+    "5 items": "When you cast a Magicka ability, you remove all negative effects from yourself. This effect can occur once every 15 seconds."
+  },
+  "Green Pact": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 3-129 Health Recovery",
+    "4 items": "Adds 28-1206 Maximum Health",
+    "5 items": "While you have a food buff active, your Max Health is increased by 58-2500 and Health Recovery by 8-356."
+  },
+  "Ranger's Gait": {
+    "2 items": "Adds 3-129 Stamina Recovery",
+    "3 items": "Adds 15-657 Critical Chance",
+    "4 items": "Adds 25-1096 Maximum Stamina",
+    "5 items": "Reduce the effectiveness of snares applied to you by 50%."
+  },
+  "Syrabane's Grip": {
+    "2 items": "Adds 3-129 Magicka Recovery",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 25-1096 Maximum Magicka",
+    "5 items": "When you Block Flame, Frost, Shock, or Magic Damage, you restore 18-805 Magicka. This effect can occur once every 1 second."
+  },
+  "Beekeeper's Gear": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 28-1206 Maximum Health",
+    "4 items": "Adds 28-1206 Maximum Health",
+    "5 items": "Adds 20-900 Health Recovery"
+  },
+  "Shadow Dancer's Raiment": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 25-1096 Maximum Magicka",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "After leaving Sneak or invisibility, you dodge all incoming attacks within the next 1 second. This effect can occur once every 8 seconds."
+  },
+  "Wilderqueen's Arch": {
+    "2 items": "Adds 15-657 Critical Chance",
+    "3 items": "Adds 3-129 Stamina Recovery",
+    "4 items": "Adds 25-1096 Maximum Stamina",
+    "5 items": "Your Bow attacks reduce the Movement Speed of any enemy they hit by 0-15% and increase your Movement Speed by 0-15% for 3 seconds."
+  },
+  "Salvation": {
+    "2 items": "Adds 25-1096 Maximum Stamina",
+    "3 items": "Adds 3-129 Stamina Recovery",
+    "4 items": "Adds 25-1096 Maximum Stamina",
+    "5 items": "Reduces the cost of your Werewolf Transformation ability by 33%. While in Werewolf form, your Weapon and Spell Damage is increased by 5-150."
+  },
+  "Spinner's Garments": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 25-1096 Maximum Magicka",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Adds 80-3460 Offensive Penetration"
+  },
+  "Thunderbug's Carapace": {
+    "2 items": "Adds 34-1487 Armor",
+    "3 items": "Adds 34-1487 Armor",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "When you take Physical Damage, you deal 714 Shock damage in a 5 meter radius around you. This effect can occur once every 3 seconds and scales off the higher of your Weapon and Spell Damage."
+  },
+  "Senche's Bite": {
+    "2 items": "Adds 3-129 Stamina Recovery",
+    "3 items": "Adds 15-657 Critical Chance",
+    "4 items": "Adds 25-1096 Maximum Stamina",
+    "5 items": "Whenever you successfully Dodge, increase your Critical Damage and Critical Healing by 0-15% for 10 seconds."
+  },
+  "Skooma Smuggler": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 3-129 Magicka Recovery",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "When you drink a potion while in combat, you gain Major Expedition for 30 seconds, increasing your Movement Speed by 30%."
+  },
+  "Soulshine": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 15-657 Critical Chance",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Activating an ability with a cast or channel time grants you 8-369 Weapon and Spell Damage for 5 seconds."
+  },
+  "Darkstride": {
+    "2 items": "Adds 25-1096 Maximum Stamina",
+    "3 items": "Adds 25-1096 Maximum Stamina",
+    "4 items": "Adds 3-129 Stamina Recovery",
+    "5 items": "Reduces the cost of Sprint and Sneak by 50%."
+  },
+  "Necropotence": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 25-1096 Maximum Magicka",
+    "4 items": "Adds 25-1096 Maximum Magicka",
+    "5 items": "While you have a pet active, your Max Magicka is increased by 72-3132."
+  },
+  "Vampire Cloak": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 28-1206 Maximum Health",
+    "5 items": "Gain Minor Protection at all times, reducing your damage taken by 5%."
+  },
+  "Hatchling's Shell": {
+    "2 items": "Adds 34-1487 Armor",
+    "3 items": "Adds 34-1487 Armor",
+    "4 items": "Adds 28-1206 Maximum Health",
+    "5 items": "Whenever you take damage you gain a damage shield that absorbs up to 3200 damage for 6 seconds. This effect can occur once every 6 seconds and scales off your Max Health."
+  },
+  "Robes of the Hist": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 25-1096 Maximum Magicka",
+    "5 items": "After being hit by a disabling effect, immobilization, or snare, you heal for 46-2000 Health every 1 second for 5 seconds. The effect can apply once every second, but cannot stack."
+  },
+  "Swamp Raider": {
+    "2 items": "Adds 15-657 Critical Chance",
+    "3 items": "Adds 25-1096 Maximum Stamina",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Adds 13-600 Weapon and Spell Damage to your Poison and Disease Damage abilities."
+  },
+  "Shadow of the Red Mountain": {
+    "2 items": "Adds 3-129 Weapon and Spell Damage",
+    "3 items": "Adds 25-1096 Maximum Stamina",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "When you deal damage with a weapon, you spawn a volcano that erupts after 1 second, launching liquid hot lava at the closest enemy dealing 1860 Flame damage. This effect can occur once every 8 seconds and scales off the higher of your Weapon and Spell Damage."
+  },
+  "Shalk Exoskeleton": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "Gain Minor Heroism at all times while you are in combat, generating 1 Ultimate every 1.5 seconds."
+  },
+  "Silks of the Sun": {
+    "2 items": "Adds 15-657 Critical Chance",
+    "3 items": "Adds 25-1096 Maximum Magicka",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Adds 9-400 Weapon and Spell Damage to your Flame Damage abilities."
+  },
+  "Dreamer's Mantle": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 28-1206 Maximum Health",
+    "4 items": "Adds 25-1096 Maximum Magicka",
+    "5 items": "When you take damage while you are under 35% Health, you knockdown all enemies within 4 meters of you for 2 seconds and restore 24-1058 Magicka. This effect can occur once every 7 seconds."
+  },
+  "Night Terror": {
+    "2 items": "Adds 25-1096 Maximum Stamina",
+    "3 items": "Reduces the radius you can be detected while Sneaking by 2 meters. Reduces the cost of Sneak by 0-10%.",
+    "4 items": "Adds 28-1206 Maximum Health",
+    "5 items": "When you take melee damage, you deal 285 Poison damage to the attacker. This effect can occur once every 1 second and scales off the higher of your Weapon and Spell Damage."
+  },
+  "Storm Knight's Plate": {
+    "2 items": "Adds 34-1487 Armor",
+    "3 items": "Adds 34-1487 Armor",
+    "4 items": "Adds 28-1206 Maximum Health",
+    "5 items": "When you take non-Physical Damage, you deal 357 Shock damage to all enemies within 5 meters of you every 2 seconds for 6 seconds. This effect can occur once every 6 seconds and scales off the higher of your Weapon and Spell Damage."
+  },
+  "Draugr's Heritage": {
+    "2 items": "Adds 4% Healing Taken",
+    "3 items": "Adds 28-1206 Maximum Health",
+    "4 items": "Adds 28-1206 Maximum Health",
+    "5 items": "When you take damage while you are under 35% Health, you knockdown all enemies within 4 meters of you for 2 seconds and heal for 2506 Health. This effect can occur once every 7 seconds and the heal scales off the higher of your Max Magicka or Stamina."
+  },
+  "Witchman Armor": {
+    "2 items": "Adds 3-129 Stamina Recovery",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 28-1206 Maximum Health",
+    "5 items": "When you use an Ultimate ability, you heal for 1-51 Health and restore 1-51 Stamina and Magicka per Ultimate spent."
+  },
+  "Ysgramor's Birthright": {
+    "2 items": "Adds 15-657 Critical Chance",
+    "3 items": "Adds 25-1096 Maximum Magicka",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Adds 9-400 Weapon and Spell Damage to your Frost Damage abilities."
+  },
+  "Affliction": {
+    "2 items": "Adds 3-129 Weapon and Spell Damage",
+    "3 items": "Adds 25-1096 Maximum Stamina",
+    "4 items": "Adds 3-129 Stamina Recovery",
+    "5 items": "When you deal damage, you deal 330 Disease damage to the target. The enemy is then afflicted with the Diseased status effect, applying Minor Defile to the target, reducing their Healing Received and damage shield strength by 6% for 4 seconds. This effect can occur once every 4 seconds and scales off the higher of your Weapon and Spell Damage."
+  },
+  "Alessian Order": {
+    "2 items": "Adds 34-1487 Armor",
+    "3 items": "Adds 34-1487 Armor",
+    "4 items": "Adds 28-1206 Maximum Health",
+    "5 items": "Increase your Health Recovery by 2% of your sum total Physical Resistance and Spell Resistance, up to a maximum of 1320. Current Bonus Health Recovery: 0."
+  },
+  "Almalexia's Mercy": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 34-1487 Armor",
+    "4 items": "Adds 34-1487 Armor",
+    "5 items": "When you take damage, you heal you and your group members within 7 meters of you for 1412 Health over 3 seconds. This effect can occur once every 3 seconds and scales off the higher of your Max Magicka or Stamina."
+  },
+  "The Arch-Mage": {
+    "2 items": "Adds 3-129 Magicka Recovery",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 25-1096 Maximum Magicka",
+    "5 items": "When you complete a fully-charged Heavy Attack, you gain an additional 11-506 Magicka Recovery for 10 seconds."
+  },
+  "Bastion of the Heartland": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 4% Healing Taken",
+    "4 items": "Reduces your damage taken from Players by 3%.",
+    "5 items": "Reduces your damage taken from Siege Weapons and Player area of effect abilities by 10%."
+  },
+  "Beckoning Steel": {
+    "2 items": "Adds 34-1487 Armor",
+    "3 items": "Adds 28-1206 Maximum Health",
+    "4 items": "Adds 34-1487 Armor",
+    "5 items": "Generate an aura that causes you and 11 group members within the aura to take 10% less damage from projectiles. This bonus persists through death. You can only be affected by one instance of Beckoning Steel."
+  },
+  "Blessing of the Potentates": {
+    "2 items": "Reduces your damage taken from Players by 3%.",
+    "3 items": "Reduces the cost of your Ultimate abilities by 15%."
+  },
+  "Buffer of the Swift": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 34-1487 Armor",
+    "4 items": "Adds 34-1487 Armor",
+    "5 items": "Reduce damage taken from Players by 10%."
+  },
+  "Crest of Cyrodiil": {
+    "2 items": "Adds 3-129 Stamina Recovery",
+    "3 items": "Adds 28-1206 Maximum Health",
+    "4 items": "Adds 28-1206 Maximum Health",
+    "5 items": "When you Block, heal for 2871 Health. This effect can occur every 4 seconds and scales off your Max Health."
+  },
+  "Curse Eater": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 3-129 Magicka Recovery",
+    "4 items": "Adds 3-129 Magicka Recovery",
+    "5 items": "When you heal yourself or an ally with a direct heal ability, remove up to 3 negative effects from them. If a negative effect was removed this way, your target restores 678 Magicka. This effect can occur every 8 seconds per target."
+  },
+  "Deadly Strike": {
+    "2 items": "Adds 3-129 Weapon and Spell Damage",
+    "3 items": "Adds 15-657 Critical Chance",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Increase the damage your damage over time and channeled attacks do by 15%."
+  },
+  "Desert Rose": {
+    "2 items": "Adds 34-1487 Armor",
+    "3 items": "Adds 28-1206 Maximum Health",
+    "4 items": "Adds 25-1096 Maximum Magicka",
+    "5 items": "When you take damage, you have a 25% chance to restore 46-2012 Magicka. This effect can occur once every 4 seconds."
+  },
+  "Eagle Eye": {
+    "2 items": "Adds 15-657 Critical Chance",
+    "3 items": "Adds 38-1652 Critical Chance to your ranged direct damage abilities."
+  },
+  "Elf Bane": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "While in combat, increases the duration of your Flame Damage over Time abilities by 5 seconds. This effect does not work with beam or channeled effects."
+  },
+  "Grace of the Ancients": {
+    "2 items": "Adds 25-1096 Maximum Magicka",
+    "3 items": "Adds 55-2406 Maximum Magicka"
+  },
+  "Hawk's Eye": {
+    "2 items": "Adds 25-1096 Maximum Stamina",
+    "3 items": "Adds 25-1096 Maximum Stamina",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Reduces the cost and increases the damage of your Bow abilities by 6%."
+  },
+  "The Juggernaut": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 34-1487 Armor",
+    "4 items": "Adds 28-1206 Maximum Health",
+    "5 items": "When you take damage while under 30% Health, heal for 4428 Health immediately and gain 465-20000 Armor for 15 seconds. This effect can occur once every 1 minute and the heal scales off your Max Health."
+  },
+  "Kyne's Kiss": {
+    "2 items": "Adds 25-1096 Maximum Stamina",
+    "3 items": "Adds 3-129 Stamina Recovery",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "When you deal direct damage while 12 meters or further from your target, you heal for 521 Health and restore 30-1314 Stamina. This effect can occur once every 5 seconds and the heal scales off the higher of your Max Magicka or Stamina."
+  },
+  "Light of Cyrodiil": {
+    "2 items": "Adds 3-129 Weapon and Spell Damage",
+    "3 items": "Adds 25-1096 Maximum Magicka",
+    "4 items": "Adds 25-1096 Maximum Magicka",
+    "5 items": "While you are casting or channeling an ability, your damage taken is reduced by 15%. When you are interrupted, your next Magicka ability will cost no Magicka."
+  },
+  "The Morag Tong": {
+    "2 items": "Adds 3-129 Weapon and Spell Damage",
+    "3 items": "Adds 25-1096 Maximum Stamina",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "When you deal direct damage, you cause the enemy to take 10% more damage from Poison and Disease attacks for 5 seconds."
+  },
+  "Ravager": {
+    "2 items": "Adds 15-657 Critical Chance",
+    "3 items": "Adds 28-1206 Maximum Health",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Each time you attempt to reduce the target's Physical or Spell Resistance, you gain a stack of Ravager for 5 seconds, increasing your Weapon and Spell Damage by 3-146. You can gain a stack every 1 second. At 4 stacks, the duration doubles but cannot be refreshed."
+  },
+  "Robes of Alteration Mastery": {
+    "2 items": "Adds 3-129 Magicka Recovery",
+    "3 items": "Adds 3-129 Magicka Recovery",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "Reduces the cost of all of your abilities by 6%."
+  },
+  "Sentry": {
+    "2 items": "Adds 25-1096 Maximum Stamina",
+    "3 items": "Adds 3-129 Weapon and Spell Damage",
+    "4 items": "Adds 15-657 Critical Chance",
+    "5 items": "When you begin to crouch, gain Stealth Detection for 10 seconds. This effect can only be activated every 30 seconds."
+  },
+  "Shadow Walker": {
+    "2 items": "Adds 3-129 Weapon and Spell Damage",
+    "3 items": "Adds 25-1096 Maximum Stamina",
+    "4 items": "Adds 3-129 Stamina Recovery",
+    "5 items": "While you are Sneaking or invisible and are not moving, heal for 50-2150 Health and restore 50-2150 Stamina every 1 second."
+  },
+  "Shield of the Valiant": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "Adds 4% Healing Taken",
+    "4 items": "Reduces your damage taken from Players by 3%.",
+    "5 items": "Reduces the cost of Break Free by 40%."
+  },
+  "Vengeance Leech": {
+    "2 items": "Adds 28-1206 Maximum Health",
+    "3 items": "When you kill an enemy, you heal for 64-2772 Health and restore 64-2772 Magicka and Stamina."
+  },
+  "Ward of Cyrodiil": {
+    "2 items": "Adds 3-129 Weapon and Spell Damage",
+    "3 items": "Adds 3-129 Stamina Recovery",
+    "4 items": "Adds 3-129 Stamina Recovery",
+    "5 items": "When you deal Martial melee damage, you apply Major Defile to the enemy for 4 seconds, reducing their healing received and damage shield strength by 12%. This effect can occur once every 5 seconds."
+  },
+  "Wrath of the Imperium": {
+    "2 items": "Adds 3-129 Weapon and Spell Damage",
+    "3 items": "Adds 7-325 Weapon and Spell Damage to your ranged direct damage abilities."
+  },
+  "Defending Warrior": {
+    "2 items": "Adds 34-1487 Armor",
+    "3 items": "Adds 34-1487 Armor",
+    "4 items": "Adds 28-1206 Maximum Health",
+    "5 items": "When you Block, you deal 1196 Magic damage to all enemies within 10 meters of you and heal for 100% of the damage done. This effect can occur once every 5 seconds and scales off your Max Health."
+  },
+  "Perfected Defending Warrior": {
+    "2 items": "Adds 34-1487 Armor",
+    "3 items": "Adds 34-1487 Armor",
+    "4 items": "Adds 28-1206 Maximum Health",
+    "5 items": "When you Block, you deal 1196 Magic damage to all enemies within 10 meters of you and heal for 100% of the damage done. This effect can occur once every 5 seconds and scales off your Max Health."
+  },
+  "Healing Mage": {
+    "2 items": "Adds 3-129 Magicka Recovery",
+    "3 items": "Adds 25-1096 Maximum Magicka",
+    "4 items": "Adds 4% Healing Done",
+    "5 items": "When you use an area of effect heal ability, you apply Minor Cowardice to enemies within 10 meters of you, reducing their Weapon and Spell Damage by 215 for 5 seconds. This effect can occur once every 3 seconds."
+  },
+  "Perfected Healing Mage": {
+    "2 items": "Adds 3-129 Magicka Recovery",
+    "3 items": "Adds 25-1096 Maximum Magicka",
+    "4 items": "Adds 4% Healing Done",
+    "5 items": "When you use an area of effect heal ability, you apply Minor Cowardice to enemies within 10 meters of you, reducing their Weapon and Spell Damage by 215 for 5 seconds. This effect can occur once every 3 seconds."
+  },
+  "Infallible Mage": {
+    "2 items": "Adds 15-657 Critical Chance",
+    "3 items": "Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%.",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Your Heavy Attacks deal an additional 20-900 damage to monsters. Enemies you damage with fully-charged Heavy Attacks are afflicted with Minor Vulnerability for 10 seconds, increasing their damage taken by 5%."
+  },
+  "Perfected Infallible Mage": {
+    "2 items": "Adds 15-657 Critical Chance",
+    "3 items": "Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%.",
+    "4 items": "Adds 3-129 Weapon and Spell Damage",
+    "5 items": "Your Heavy Attacks deal an additional 20-900 damage to monsters. Enemies you damage with fully-charged Heavy Attacks are afflicted with Minor Vulnerability for 10 seconds, increasing their damage taken by 5%."
+  },
+  "Quick Serpent": {
+    "2 items": "Adds 15-657 Critical Chance",
+    "3 items": "Adds 25-1096 Maximum Stamina",
+    "4 items": "Adds 25-1096 Maximum Stamina",
+    "5 items": "Reduces the costs of your Stamina abilities by 8%. When an enemy you have recently damaged dies, you restore 57-2454 Stamina and gain Major Expedition for 8 seconds, increasing your Movement Speed by 30%. These effects can occur once every second."
+  },
+  "Perfected Quick Serpent": {
+    "2 items": "Adds 15-657 Critical Chance",
+    "3 items": "Adds 25-1096 Maximum Stamina",
+    "4 items": "Adds 25-1096 Maximum Stamina",
+    "5 items": "Reduces the costs of your Stamina abilities by 8%. When an enemy you have recently damaged dies, you restore 57-2454 Stamina and gain Major Expedition for 8 seconds, increasing your Movement Speed by 30%. These effects can occur once every second."
+  }
+}
